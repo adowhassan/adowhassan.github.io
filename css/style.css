@@ -1,0 +1,51 @@
+
+body{
+    color: #000068;
+}
+p{
+    font-size: 13px;
+}
+.cont{
+    display: flex;
+    justify-content: flex-start;
+}
+.item{
+    padding-top: 20px;
+}
+.item1{
+    padding-left: 20px;
+}
+/*
+ol  {
+    font-size: 19px;
+}
+li.lis{
+    color: goldenrod;
+    list-style: square;
+}
+li.span{
+    color: blue;
+}*/
+.anchor{
+    background-color: #1d9bf0;
+    text-decoration: none;
+    color: #fff;
+    padding: 1px 12px 1px 12px;
+    border-radius: 9999px;
+}
+
+.fa-twitter{
+    color: #fff;
+}
+.ft{
+    display: flex;
+    justify-content: flex-start;
+    justify-items: center;
+}
+.itm1{
+   padding-top: 10px;
+}
+.fa-twitter{
+    padding-right: 5px;
+    font-size: 10px;
+}
